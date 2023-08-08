@@ -1,6 +1,10 @@
 # Blockchain Indexer
 
 Home assessment, Blockchain Indexer for Magic Eden
+Created by Chanthai Sihabouth
+Github: https://github.com/Songark
+LinkedIn: https://www.linkedin.com/in/chanthai-sihabouth-8aaa06143/
+Resume: https://career.io/r/kmTkGBaUr
 
 ## Getting Started
 
